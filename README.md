@@ -8,3 +8,6 @@ var dateUtils = require('humanized_date_formatter');
 
 var dateString = dateUtils.humanizedDateFormatter(date);
 ```
+
+# TODO
+* Implement i18n
